@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Shaik Afrin
 
-<!--
-**afrinshaik1011/afrinshaik1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Electrical Engineering Student | Python & MATLAB | AI & Software Development
 
-Here are some ideas to get you started:
+I'm a B.Tech Electrical Engineering student at Anurag University, exploring the intersection of **Electrical Engineering, software development, and AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm Learning & Exploring
+
+- ⚡ Electrical Engineering
+- 🐍 Python
+- 📊 MATLAB
+- 🤖 AI & Emerging Technologies
+- 💻 Software Development
+- 🧩 Problem Solving
+
+### 🚀 Projects
+
+- 📄 **Resume Analyzer System** — Python-based resume analysis and candidate ranking system
+- 🚗 **ChargeFair** — Intelligent EV charging management system *(ongoing)*
+
+### 🎯 Currently
+
+I'm building practical projects, participating in hackathons, and continuously improving my programming and problem-solving skills.
+
+### 🔗 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/shaik-afrin-30ba40397)
